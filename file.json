@@ -1,1 +1,1 @@
-{"secret_code":"joxd228","github":"als6k"}
+curl -v -H "Content-Type: application/json" -X POST -d '{ "secret_code": "joxd228","github": "als6k"}' https://rubizza.com/register
