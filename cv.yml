@@ -1,10 +1,24 @@
-:goal
-:programming_languages
-:have_a_job - no
-:laptop -
-:english - B1 - certificated, B2 - started
-:education - BSU, Faculty of Radiophysics and Computer Technologies, Specialization: Computer Security, 2020(student)
-:phone_number - +375256285662
-:hours_per_day - 8-10
-:age - 20
-:full_name - Alesia Yakutsionak
+full_name: Alesia Yakutsionak
+age: 20
+location: Minsk, Belarus
+
+contacts:
+  phone_number: +375256285662
+  email: als6000@gmail.com
+  github: als6k
+
+programming_languages:
+  name: Ruby/ Ruby on Rails (have certificate Rubizza winter 2019)
+  name: HTML/CSS
+
+english: B1-certificated, B2-started
+education:
+  institution: BSU, Faculty of Radiophysics and Computer Technologies
+  when: 2016-2020(student now)
+  specialization: Computer Security
+
+have_a_job: "no"
+laptop: yes/Ubuntu 18.04
+hours_per_day: 10
+
+goal: Become a true RoR developer/ have realy cool Rubizza-summer/ get a job
